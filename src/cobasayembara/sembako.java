@@ -16,5 +16,8 @@ public class sembako {
     System.out.println("Menyediakan :");
     System.out.println("1. Beras\n2. Minyak Goreng\n3. Telur");
     System.out.println("4. Gula");
+    
+    System.out.print("Masukkan pilihan       = ");
+    pilih = in.nextInt();
     }
 }
